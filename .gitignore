@@ -3,6 +3,7 @@
 *.o
 *.out
 *.app
+*.ini
 
 # --- Visual Studio Code ---
 .vscode/
