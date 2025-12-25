@@ -1,0 +1,17 @@
+# --- Binários e Arquivos de Build ---
+*.exe
+*.o
+*.out
+*.app
+
+# --- Visual Studio Code ---
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# --- Outros arquivos temporários ---
+.DS_Store
+Thumbs.db
